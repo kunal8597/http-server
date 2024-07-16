@@ -1,4 +1,4 @@
-# Simple HTTP Server in Java
+# HTTP Server in Java
 
 This project implements a simple HTTP server in Java capable of handling GET and POST requests. It supports serving static files, echoing request URLs, and providing user-agent information.
 
